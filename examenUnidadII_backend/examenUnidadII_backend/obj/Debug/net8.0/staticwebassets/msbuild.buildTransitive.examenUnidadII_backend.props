@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\examenUnidadII_backend.props" />
+</Project>
